@@ -1,0 +1,11 @@
+{
+    "Signedin successfully":"تم تسجيل الدخول بنجاح",
+    "Loggeout successfully":"تم تسجيل الخروج بنجاح",
+    "You have followed :username":"لقد قمت بمتابعة :username",
+    "followed":"لقد قمت بمتابعة :username",
+    "unfollowed":"لقد قمت بالغاء متابعة :username",
+    "You cannot follow yourself":"لا يمكنك متابعة نفسك",
+    "Wrong credentials":"بيانات الدخول غير صحيحة",
+    "password_validation":"يجب أن تتكون كلمة المرور من 8 أحرف على الأقل تحتوي على أحرف كبيرة وصغيرة، ورقم واحد على الأقل، وحرف خاص واحد على الأقل",
+    "username_validation":"يجب ألا بحتوي اسم المستخدم على مسافات"
+}

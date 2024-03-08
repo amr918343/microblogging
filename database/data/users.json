@@ -1,0 +1,38 @@
+[
+    {
+        "username": "blogger1",
+        "image":"assets/images/users/1.png",
+        "password": "Amr123456#",
+        "email": "blogger1@gmail.com"
+    },
+    {
+        "username": "blogger2",
+        "image":"assets/images/users/2.png",
+        "password": "Amr123456#",
+        "email": "blogger2@gmail.com"
+    },
+    {
+        "username": "blogger3",
+        "image":"assets/images/users/3.png",
+        "password": "Amr123456#",
+        "email": "blogger3@gmail.com"
+    },
+    {
+        "username": "blogger4",
+        "image":"assets/images/users/3.png",
+        "password": "Amr123456#",
+        "email": "blogger4@gmail.com"
+    },
+    {
+        "username": "blogger5",
+        "image":"assets/images/users/2.png",
+        "password": "Amr123456#",
+        "email": "blogger5@gmail.com"
+    },
+    {
+        "username": "blogger6",
+        "image":"assets/images/users/1.png",
+        "password": "Amr123456#",
+        "email": "blogger6@gmail.com"
+    }
+]
